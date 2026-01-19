@@ -1,6 +1,10 @@
 # claux
 
-Run claude instantly from your terminal anywhere any time. Similar to `@goose`. 
+Run claude instantly from your terminal anywhere any time. Similar to `@goose` from https://github.com/block/goose
+
+
+<img width="740" height="419" alt="image" src="https://github.com/user-attachments/assets/6f130b3b-955a-4537-b273-94e42f829c80" />
+
 
 
 ## Build
